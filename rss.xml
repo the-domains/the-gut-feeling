@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Gut Feeling]]></title>
         <description><![CDATA[The Gut Feeling]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-gut-feeling/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 14:09:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 14:09:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-gut-feeling/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91c84f34-f528-408a-9356-914676e11c09.jpg">]]></description>
+            <link>https://thegrid.ai/the-gut-feeling/arbejd-med-mig/index.html</link>
+            <guid isPermaLink="false">cc34fece-7a51-4688-b8f1-b5aaf0cbaa8c</guid>
+            <pubDate>Fri, 06 May 2016 14:09:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e97addaa-7d7d-4847-97ed-e62d7f84073d.jpg">]]></description>
-            <link>undefineddet-sker-sjaeldent-at-vi-far-en-time-til-at-udforske-vores-ma/index.html</link>
+            <link>https://thegrid.ai/the-gut-feeling/det-sker-sjaeldent-at-vi-far-en-time-til-at-udforske-vores-ma/index.html</link>
             <guid isPermaLink="false">b0e5f38e-39c9-4109-8d6b-213d77f63cdc</guid>
             <pubDate>Fri, 06 May 2016 14:09:01 GMT</pubDate>
         </item>
