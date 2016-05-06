@@ -1,0 +1,28 @@
+name: The Gut Feeling
+favicon: null
+layout_spectrum: 0.14192540128715336
+typography_spectrum: 0.010708236834034324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8953466690145433
+  lightness: 0.9825277517084032
+  saturation: 0.9634151852224022
+  rhythmicContrast: 0.5422094392124563
+purpose: []
