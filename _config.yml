@@ -1,4 +1,5 @@
-layout_spectrum: 0.221178
+favicon: null
+name: The Gut Feeling
 opengraph:
   image: null
   type: null
@@ -19,22 +20,21 @@ purpose: []
 color:
   saturation: 0.5
   brandStrength: 0.5
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#e1feff'
-    - '#0e7f87'
-    - '#9dbab9'
-    - '#0ba3a3'
-    - '#7c9da9'
   lightness: 0.5625
+  brandColors:
+    - '#F7EBEB'
+    - '#624541'
+    - '#0D0C11'
+    - '#D3BEB9'
+    - '#AF9893'
+  rhythmicContrast: 0.5
 typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.221178
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: The Gut Feeling
+cta:
+  bucket: null
+  version: null
+  domain: null
