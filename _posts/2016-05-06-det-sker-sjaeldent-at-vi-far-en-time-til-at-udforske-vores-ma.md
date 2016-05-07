@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Det sker sjældent at vi får en time til at udforske vores mål for vores velvære med en professionnel. Som Integrative Nutrition Health Coach skaber jeg et støttende miljø, der giver plads til at du kan formulere og opnå dine mål. Gennem hele min uddannelse har jeg stiftet bekendskab med de nyeste dieter og teorier og jeg har studeret de mest effektive coaching teknikker for at hjælpe dig med at finde frem til den livsstil der fungerer bedst for dig.'
-datePublished: '2016-05-07T06:56:39.860Z'
-dateModified: '2016-05-06T16:28:00.139Z'
+description: 'At leve sundt behøves ikke at være hårdt '
+datePublished: '2016-05-07T10:54:32.755Z'
+dateModified: '2016-05-07T10:54:26.685Z'
 title: ''
 author:
   - name: ''
@@ -25,4 +25,8 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fe77439-e6cc-4bfc-a2be-a92fd48ed080.jpg)
 
-Det sker sjældent at vi får en time til at udforske vores mål for vores velvære med en professionnel. Som Integrative Nutrition Health Coach skaber jeg et støttende miljø, der giver plads til at du kan formulere og opnå dine mål. Gennem hele min uddannelse har jeg stiftet bekendskab med de nyeste dieter og teorier og jeg har studeret de mest effektive coaching teknikker for at hjælpe dig med at finde frem til den livsstil der fungerer bedst for dig.
+> At leve sundt behøves ikke at være hårdt 
+
+[**Tilmeld dig**][0]og få mit gratis Cleanse Cheat ark for at finde ud af hvordan + få flere updates fra mig. 
+
+[0]: http://thegutfeeling.liveeditaurora.com/
