@@ -1,9 +1,7 @@
-favicon: null
 name: The Gut Feeling
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.49326
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5213032
-  brandStrength: 0.3076441
-  lightness: 0.5651629
   brandColors:
     - '#1B2026'
     - '#A7ABAD'
     - '#41596E'
     - '#DFDACF'
     - '#837A5C'
+  brandStrength: 0.3076441
+  lightness: 0.5651629
+  saturation: 0.5213032
   rhythmicContrast: 0.5369674
-typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.221178
+purpose: []
