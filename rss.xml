@@ -4,7 +4,7 @@
         <description><![CDATA[The Gut Feeling]]></description>
         <link>https://thegrid.ai/the-gut-feeling/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 06:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 07:09:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-gut-feeling/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-gut-feeling/det-sker-sjaeldent-at-vi-far-en-time-til-at-udforske-vores-ma/index.html</link>
             <guid isPermaLink="false">b0e5f38e-39c9-4109-8d6b-213d77f63cdc</guid>
             <pubDate>Sat, 07 May 2016 06:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9185e88946398ccaccd078ae6ba9bda776727f7b.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/the-gut-feeling/de-flestes-tilgang-til-sund-ernaering-dvaeler-ved-kalorier-ku/index.html</link>
+            <guid isPermaLink="false">bff5b0f9-eb10-49d0-bad5-9d7a1dda03b7</guid>
+            <pubDate>Sat, 07 May 2016 07:09:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
